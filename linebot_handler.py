@@ -1,3 +1,4 @@
+import re
 import os
 import openai
 from linebot.models import TextSendMessage, TemplateSendMessage, ConfirmTemplate, PostbackAction
