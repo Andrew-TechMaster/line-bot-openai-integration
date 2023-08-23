@@ -91,7 +91,7 @@ Line Bot OpenAI 統合は、さまざまなユーザーの対話を処理し、�
 1. **リポジトリのクローン:**
 
    ```bash
-   git clone https://github.com/your-username/line-bot-openai-integration.git
+   git clone https://github.com/Andrew-TechMaster/line-bot-openai-integration
    cd line-bot-openai-integration
    ```
 

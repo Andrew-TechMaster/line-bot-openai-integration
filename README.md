@@ -91,7 +91,7 @@ Follow these steps to get the Line Bot OpenAI integration up and running on your
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/line-bot-openai-integration.git
+   git clone https://github.com/Andrew-TechMaster/line-bot-openai-integration
    cd line-bot-openai-integration
    ```
 
